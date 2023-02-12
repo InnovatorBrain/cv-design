@@ -3,7 +3,7 @@
 </p>
 
 
-[![Visits](https://visitor-badge.glitch.me/badge?page_id=innovatorBrain.cv-design)](https://github.com/innovatorBrain
+[![Visits](https://visitor-badge.glitch.me/badge?page_id=innovatorBrain.cv-design)](https://github.com/innovatorBrain/cv-design)
 
 
 <a href="https://innovatorbrain.github.io/cv-design/">
