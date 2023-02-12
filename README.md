@@ -3,21 +3,7 @@
 </p>
 
 
-<p>Visitor Count: <span id="visitorCount">0</span></p>
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Visitor Counter</title>
-  </head>
-  <body>
-    <div id="visitorCount">0</div>
-    <script>
-      let count = 0;
-      const visitorCountElement = document.getElementById("visitorCount");
-      visitorCountElement.innerHTML = ++count;
-    </script> 
-  </body>
-</html>
+[![Visits](https://visitor-badge.glitch.me/badge?page_id=innovatorBrain.cv-design)](https://github.com/innovatorBrain
 
 
 <a href="https://innovatorbrain.github.io/cv-design/">
